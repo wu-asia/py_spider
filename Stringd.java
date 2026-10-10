@@ -1,4 +1,8 @@
-// TODO: the study process of java
+// TODO(me): the study process of java
+// FIXME: 
+// BUG:问题修复
+// HACK:
+//
 public class Stringd {
     static void main(String[] args){
         // public StringBuilder append(任意类型)
